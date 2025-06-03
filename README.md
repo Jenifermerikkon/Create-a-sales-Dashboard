@@ -14,3 +14,7 @@ DESCRIPTION  :The Sales Dashboard in Power BI provides an interactive and visual
 
 This solution is designed to offer executives, sales managers, and analysts a real-time overview of the organization’s sales activities with filterable and drill-down capabilities.
 
+OUTPUT:
+
+[Image](https://github.com/user-attachments/assets/01fecdc3-0c6f-4292-830b-ec8507b719d9)
+
